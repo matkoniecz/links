@@ -16,6 +16,4 @@
 
 1. http://kunststube.net/encoding/ What every programmer absolutely, positively needs to know about encodings and character sets to work with text – jeśli zapomniałem do to mnemo
 
-1. read about hash tables - https://en.wikipedia.org/wiki/Open_addressing
-
 (located in ~/Documents/links_for_processing)
